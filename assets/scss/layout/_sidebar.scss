@@ -1,0 +1,31 @@
+.sidebar{
+  background-color: #F8F9FA;
+  min-width: 296px;
+  height: 100vh; 
+  position: sticky;
+  top: 0;
+  left: 0;
+  overflow-y: auto;  
+  padding-left: 32px;
+}
+.contact-img{
+  width: 40px;
+  height: 40px;
+  border-radius: 24px;
+}
+.bar-list{
+  li{
+    margin-bottom: 29px;
+    font-weight: bold;
+    color:#212529;
+  }
+}
+.email{
+  font-size: 14px;
+  color:#6C757D;
+}
+.green{
+  color:#198754;
+}
+ 
+

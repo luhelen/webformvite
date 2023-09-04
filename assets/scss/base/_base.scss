@@ -1,0 +1,27 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+.container{
+  width: 984px;
+  padding: 0 32px;
+  
+}
+body {
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: "Lato","SF Pro Text", PingFangTC, -apple-system, BlinkMacSystemFont,
+      "Segoe UI", "Microsoft JhengHei", Roboto, "Helvetica Neue", Arial,
+      sans-serif;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
