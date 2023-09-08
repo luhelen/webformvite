@@ -1,29 +1,8 @@
-footer{
-    margin-top: 67px;
+nav{
+    margin-top: 67px;    
 }
-.pages-list{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;  
-    text-align: center;
-    width: 160px;   
-    li{           
-      .number{
-        padding: 6px 12px;      
-      }
-      a{
-        border:1px solid green;
-      }
-      a:hover{
-        background-color: green;
-        color:white;
-      }
-      .page{
-        color:green; 
-        padding-left: 4px;
-        padding-top: 9px;
-        padding-bottom: 3px;                    
-      }
-    }
-  }
- 
+.page-link.arrow{
+    color:green;
+}
+
+
